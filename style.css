@@ -1,0 +1,51 @@
+.navtop{
+    font-size: 1.3em;
+}
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+.ftrc{
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0px;
+    width: 100%;
+    position: absolute;
+}
+.ftrd{
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0px;
+    width: 100%;
+}
+.row_style{
+    margin-top:50px ;
+}
+
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/intro-bg_1.jpg) no-repeat center center;
+    background-size: cover;
+}
+#banner_content{
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;;
+}
+.ftfnt{
+    font-size: 100%;
+}
+.row_one{
+    padding-top: 2%;
+}
